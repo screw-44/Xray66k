@@ -1,4 +1,4 @@
-# Xray66k
+# X-ray by wdh
 # bottle_deal.py没什么用，最开始用来分割瓶子的
 # png2jpg.py是把某些四通道的png图像转化成三通道的jpg图，目的是把某些透明像素转化为白色
 # randomflip.py用于随机旋转obj图片
